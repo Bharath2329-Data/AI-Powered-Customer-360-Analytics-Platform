@@ -1,5 +1,5 @@
 # customer360-azure-snowflake-project
-## AI-Powered Customer 360 Analytics Platform
+
 ![Architecture Diagram](docs/images/customer360_architecture.png)
 
 ## Project Overview
