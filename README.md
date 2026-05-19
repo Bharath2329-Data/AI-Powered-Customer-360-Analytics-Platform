@@ -26,6 +26,16 @@ SQL
 Power BI
 GitHub
 
+## Business KPIs
+- Customer Lifetime Value
+- Revenue by Customer Segment
+- Repeat Customers
+- Marketing Conversion Rate
+- Customer Churn Risk
+- Customer Engagement Level
+- High-Value Customers
+- Support Analytics
+
 # Day 1 — Azure Project Setup
 ## Objective
 
