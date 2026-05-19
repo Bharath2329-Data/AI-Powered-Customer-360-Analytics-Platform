@@ -36,6 +36,24 @@ GitHub
 - High-Value Customers
 - Support Analytics
 
+  # Power BI Dashboard
+
+## AI-Powered Customer 360 Dashboard
+
+![Dashboard](screenshots/Day%209/AI_Powered%20Customers%20360%20Analytics%20Dashboard.png)
+
+---
+
+## Customer Insights & Segmentation
+
+![Customers](screenshots/Day%209/Customers%20Insights%20&%20Segmentation.png)
+
+---
+
+## Marketing & Support Analysis
+
+![Marketing](screenshots/Day%209/Marketing%20&%20Support%20Analysis.png)
+
 # Day 1 — Azure Project Setup
 ## Objective
 
