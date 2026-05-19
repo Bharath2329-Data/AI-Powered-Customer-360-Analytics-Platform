@@ -1,6 +1,7 @@
 # customer360-azure-snowflake-project
+## AI-Powered Customer 360 Analytics Platform
+![Architecture Diagram](images/customer360_architecture.png)
 
-# AI-Powered Customer 360 Analytics Platform
 ## Project Overview
 
 ### Built an end-to-end Customer 360 analytics platform using Azure, Snowflake, SQL, and Power BI to centralize customer, orders, website, support, and marketing data for business insights, customer segmentation, churn analysis, and AI-ready analytics.
